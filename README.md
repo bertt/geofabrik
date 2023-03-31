@@ -22,4 +22,14 @@ $ tar -xvf styles.tar.gz
 
 Create frontend
 
+Demo's:
+
+https://bertt.github.io/geofabrik/mvt/index_eclipse.html
+
+https://bertt.github.io/geofabrik/mvt/index_neutrino.html
+
+https://bertt.github.io/geofabrik/mvt/index_shortbread.html
+
+
+
 
