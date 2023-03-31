@@ -15,9 +15,8 @@ Rendering see https://shortbread.geofabrik.de/styles/
 Download styles:
 
 ```
-$ wget https://github.com/versatiles-org/versatiles-styles/releases/download/v0.1.1/styles.tar.gz
+$ wget https://github.com/versatiles-org/versatiles-styles/releases/latest/download/styles.tar.gz
 $ tar -xvf styles.tar.gz
-
 ```
 
 Create frontend
