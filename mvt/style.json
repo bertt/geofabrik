@@ -1,0 +1,26 @@
+{
+    "id": "43f36e14-e3f5-43c1-84c0-50a9c80dc5c7",
+    "name": "MapLibre",
+    "zoom": 0.8619833357855968,
+    "pitch": 0,
+    "center": [
+        17.65431710431244,
+        32.954120326746775
+    ],
+    "layers": [
+        {
+            "id": "background",
+            "type": "background",
+            "paint": {
+                "background-color": "#D8F2FF"
+            },
+            "filter": [
+                "all"
+            ],
+            "layout": {
+                "visibility": "visible"
+            },
+            "maxzoom": 24
+        }
+    ]
+}
