@@ -1,7 +1,8 @@
 # geofabrik
 
+Blog: https://bertt.wordpress.com/2023/03/31/geofabrik-vector-tiles/
 
-Blog: https://blog.geofabrik.de/?p=589
+Announcement Blog: https://blog.geofabrik.de/?p=589
 
 - Download Andorra vector tiles (3.5 MB)
 
